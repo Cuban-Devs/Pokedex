@@ -12,11 +12,11 @@ Resultado Final esperado del proyecto:
 
 ## Tech Stack
 
-**Client:** HTML, CSS, TailwindCSS, Javascript Vanilla, React
+**Client:** HTML, CSS, TailwindCSS, Javascript Vanilla, React, Vite
 
 **Server:** ....
 
-**Otras:** Git, Github
+**Otras:** PNPM, Git, Github
 ## Deployment
 
 Guía de Instalación
