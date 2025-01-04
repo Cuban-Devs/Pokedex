@@ -8,6 +8,8 @@ Este proyecto es una Pokédex interactiva creada con React y JavaScript Vanilla.
 
 Resultado Final esperado del proyecto: 
 
+![Pokedex](https://github.com/user-attachments/assets/e7906186-756a-4fae-aef2-bf523817ce55)
+
 ## Tech Stack
 
 **Client:** HTML, CSS, TailwindCSS, Javascript Vanilla, React
